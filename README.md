@@ -22,6 +22,12 @@ The Quiz Project is a web application developed using Flask, a micro web framewo
 - Flask-WTF: Simplifies form handling.
 - MySQL: Database for storing user details, questions, and subjects.
 
+  ##License
+-This project is licensed under the MIT License.
+
+  pip install -r requirements.txt
+
+
 ## Setup
 
 1. **Clone the repository:**
