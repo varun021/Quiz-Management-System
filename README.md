@@ -25,7 +25,7 @@ The Quiz Project is a web application developed using Flask, a micro web framewo
   ##License
 -This project is licensed under the MIT License.
 
-  pip install -r requirements.txt
+ git pip install -r requirements.txt
 
 
 ## Setup
